@@ -8,6 +8,7 @@ Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Pr
 
 1. **Kiihtyvyysanturidatan kerääminen**  
    - Anturin mittaukset NRF5340DK:n avulla (C-ohjelmointi).
+   -![Dataa](rawdata.jpg)
 
 2. **Datan siirto tietokantaan**  
    - Bluetooth LE -yhteydellä Raspberry Pi:lle, josta python-skriptillä tietokantaan.
