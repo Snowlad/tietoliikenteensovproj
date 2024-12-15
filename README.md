@@ -17,6 +17,11 @@ Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Pr
    - Datan haku tietokannasta ja opetuksen suorittaminen (Python).
      -![K-means](kmeans.png)
 
+     
+4. **Datan lisääminen NRF5340DK**
+   - Opetetun datan siirto NRF5340DK-alustalle.
+   - Nyt laitteen pitäisi kertoa oma asentonsa nappia painamalla
+
 ## Toteutuksessa käytettävät osa-alueet
 
 - **Kielet**: C, Python, PHP ja Markdown  
