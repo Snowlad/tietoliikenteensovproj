@@ -2,7 +2,7 @@
 
 ## Yleiskuvaus
 
-Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Projektin tarkoituksena on mitata kiihtyvyysanturidataa ja lähettää se Bluetooth LE:llä Raspberry Pi:lle, joka siirtää sen koulun tietokantaan. Tietokannasta data noudetaan omalle tietokoneelle ja toteutetaan K-means-algoritmi mittausten analysoimiseksi. Lopputuloksella olisi tarkoitus tietää anturin asento.
+Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Projektin tarkoituksena on mitata kiihtyvyysanturidataa ja lähettää se Bluetooth LE:llä Raspberry Pi:lle, joka siirtää sen koulun tietokantaan. Tietokannasta data noudetaan omalle tietokoneelle ja toteutetaan K-means-algoritmi mittausten analysoimiseksi. Tämän jälkeen opetettu data siirretään Nordicin alustalle. Lopputuloksella olisi tarkoitus tietää anturin asento.
 
 ## Projektin osat
 
