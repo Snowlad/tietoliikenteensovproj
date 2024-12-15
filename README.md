@@ -15,6 +15,7 @@ Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Pr
 
 3. **Datan analyysi ja K-means-opetus**  
    - Datan haku tietokannasta ja opetuksen suorittaminen (Python).
+     -![K-means](kmeans.png)
 
 ## Toteutuksessa käytettävät osa-alueet
 
