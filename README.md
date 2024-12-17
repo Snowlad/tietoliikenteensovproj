@@ -21,8 +21,8 @@ Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Pr
 4. **Datan lisääminen NRF5340DK**
    - Opetetun datan siirto NRF5340DK-alustalle.
    - Nyt laitteen pitäisi kertoa oma asentonsa nappia painamalla
-     Toimii:
    -![matrix](confusionmatrix.png)
+     Toimii!
 
 ## Toteutuksessa käytettävät osa-alueet
 
