@@ -23,7 +23,7 @@ Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Pr
    - Nyt laitteen pitäisi kertoa oma asentonsa nappia painamalla
      Toimii:
      Week 6/confusionmatrix.png
-     -![K-means](Week 6/confusionmatrix.png)
+     -![matrix](confusionmatrix.png)
 
 ## Toteutuksessa käytettävät osa-alueet
 
