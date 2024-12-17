@@ -22,8 +22,7 @@ Tässä projektissa hyödynnetään aikasemmilla kursseilla opittuja taitoja. Pr
    - Opetetun datan siirto NRF5340DK-alustalle.
    - Nyt laitteen pitäisi kertoa oma asentonsa nappia painamalla
      Toimii:
-     Week 6/confusionmatrix.png
-     -![matrix](confusionmatrix.png)
+   -![matrix](Week6/confusionmatrix.png)
 
 ## Toteutuksessa käytettävät osa-alueet
 
